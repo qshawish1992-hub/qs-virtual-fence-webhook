@@ -1,0 +1,1 @@
+export default function Loading() { return <main dir="rtl" className="flex min-h-screen items-center justify-center bg-background text-muted-foreground"><div className="flex items-center gap-3" role="status"><span className="size-5 animate-spin rounded-full border-2 border-primary border-t-transparent" /> جارٍ تحميل بيانات Airtable...</div></main> }
